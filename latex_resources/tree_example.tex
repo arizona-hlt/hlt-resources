@@ -1,0 +1,65 @@
+\documentclass[11pt,twoside]{article}
+
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{pgfplots}
+\usepackage{mathtools}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{qtree}
+\usepackage{tipa}
+\usepackage{linguex}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{multicol}
+\lstset{
+basicstyle=\small\ttfamily,
+columns=flexible,
+breaklines=true	
+}
+
+\newcommand*{\carry}[1][1]{\overset{#1}}
+\newcolumntype{B}[1]{r*{#1}{@{\;\,}r}}
+
+\usepackage{fancyhdr}
+\setlength{\headheight}{0.75in}
+\setlength{\headwidth}{6.5in}
+\pagestyle{fancy}
+
+\renewcommand{\headrulewidth}{0pt}
+\addtolength{\jot}{2mm}
+
+\lhead[]{\textbf{LING \#\#\#}}
+
+\chead[]{\textbf{Homework \#}}
+
+\rhead[]{\vskip 0.75cm
+\hfill\vbox{
+\hbox{Student Name}
+\hbox{Teacher Name}
+\hbox{Date}}}
+
+
+\setlength{\topmargin}{-0.75in}
+\setlength{\textheight}{8.25in}
+\setlength{\textwidth}{6.5in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\evensidemargin}{0.0in}
+
+\begin{document}
+
+Text goes here
+
+\Tree
+	[.DP
+		[.D\\an ]
+		[.NP
+			[.ADJ\\example ]
+			[.N\\ tree ]
+		]
+	]
+
+\end{document}

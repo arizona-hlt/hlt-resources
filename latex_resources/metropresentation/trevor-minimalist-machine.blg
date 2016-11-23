@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: trevor-minimalist-machine.aux
+The style file: abbrv.bst
+Database file #1: trevor-minimalist-machine.bib
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            526 strings with 4354 characters,
+and the built_in function-call counts, 1350 in all, are:
+= -- 129
+> -- 62
+< -- 0
++ -- 27
+- -- 20
+* -- 81
+:= -- 246
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 54
+empty$ -- 108
+format.name$ -- 20
+if$ -- 270
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 33
+stack$ -- 0
+substring$ -- 59
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 0
+while$ -- 14
+width$ -- 6
+write$ -- 55

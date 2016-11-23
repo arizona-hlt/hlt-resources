@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction to Minimalism}{3}{0}{1}
+\beamer@sectionintoc {2}{The Minimalist Machine}{16}{0}{2}
+\beamer@sectionintoc {3}{Persian 1:01}{40}{0}{3}
+\beamer@sectionintoc {4}{Persian Challenges to the Minimalist Program}{45}{0}{4}
+\beamer@sectionintoc {7}{Unsolved Problems with Minimalism and Persian}{107}{0}{5}
+\beamer@sectionintoc {8}{Conclusion}{113}{0}{6}

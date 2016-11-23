@@ -1,0 +1,10 @@
+\frametitle{Edge Features}
+Edge features probe for the first constituent available, or the last one to have uninterpretable features still unvalued
+  \pause
+
+  \only<2>{\includegraphics[height=5cm]{nocase1.png}}
+  \only<3>{\includegraphics[height=5cm]{nocase2.png}}
+  \only<4>{\includegraphics[height=5cm]{nocase3.png}}
+
+  \onslide<2-4> This is realized in the Minimalist Machine with a stack onto which is pushed any item that does not have all its features valued.
+
